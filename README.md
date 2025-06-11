@@ -1,1 +1,1 @@
-# ecograph
+# EcoGraph
